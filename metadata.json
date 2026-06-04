@@ -1,0 +1,6 @@
+{
+  "name": "KFC Ghana",
+  "description": "A premium, conversion-optimized mobile-first online ordering platform for KFC Ghana, featuring an interactive menu, intelligent upsells, Mobile Money checkout, rewards loyalty system, and a store locator with real GPS guidance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
